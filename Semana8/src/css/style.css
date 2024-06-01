@@ -21,7 +21,7 @@ body {
 
 /* Título general */
 .titulo {
-    color: #642a73;
+    color: #2a4d73;
     font-size: 30px;
     text-align: center;
     margin-bottom: 60px;
@@ -31,9 +31,9 @@ body {
 header {
     width: 100%;
     height: 600px;
-    background: #bc4e9c; /* Color de fondo */
-    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(../img/portada.jpeg); /* Degradado de fondo para navegadores WebKit */
-    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(../img/portada.jpeg); /* Degradado de fondo */
+    background: #4e81bc; /* Color de fondo */
+    background: -webkit-linear-gradient(to right, hsla(232, 95%, 50%, 0.459), hsla(171, 45%, 52%, 0.664)), url(../img/yo\ pana.jpg); /* Degradado de fondo para navegadores WebKit */
+    background: linear-gradient(to right, hsla(0, 95%, 50%, 0.459), hsla(202, 45%, 52%, 0.664)), url(../img/yo\ pana.jpg); /* Degradado de fondo */
     background-size: cover; /* Tamaño de fondo */
     background-attachment: fixed; /* Fondo fijo */
     position: relative;
@@ -102,7 +102,7 @@ main .quien-soy {
 }
 
 .contenido-textos h3 span {
-    background: #4d0686;
+    background: #068640;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
@@ -153,7 +153,7 @@ main .quien-soy {
     height: 100%;
     top: 0;
     transform: scale(0);
-    background: hsla(273, 91%, 27%, 0.7);
+    background: hsla(30, 91%, 27%, 0.7);
     transition: transform .5s;
     display: flex;
     justify-content: center;
@@ -180,7 +180,7 @@ main .quien-soy {
 }
 
 .cards .card {
-    background: #4d0686;
+    background: #e00000;
     display: flex;
     width: 46%;
     height: 200px;
@@ -233,7 +233,7 @@ footer {
 
 .content-foo h4 {
     color: #fff;
-    border-bottom: 3px solid #af20d3;
+    border-bottom: 3px solid #fa0202;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
